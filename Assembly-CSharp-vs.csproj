@@ -55,7 +55,6 @@
      <Compile Include="Assets\Scripts\PlayerMotion.cs" />
      <Compile Include="Assets\Scripts\SpawnScript.cs" />
      <Compile Include="Assets\Scripts\SwimUp.cs" />
-     <Compile Include="Assets\Scripts\TouchLogicV2.cs" />
      <Compile Include="Assets\Scripts\oscilatingSpawner.cs" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Background.shader" />
